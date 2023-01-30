@@ -1,4 +1,4 @@
-# PowerofPowershell
+# Power of Powershell
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Oatmello/Markdowns/main/ADimages/Powershell%20logo.png" />
